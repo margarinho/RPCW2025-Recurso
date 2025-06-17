@@ -1,0 +1,1548 @@
+[
+    {
+        "id": "adamdelaney",
+        "createCocktail": "localeditionpunch",
+        "strBartender": "Adam Delaney"
+    },
+    {
+        "id": "adamfortuna",
+        "createCocktail": "luxardosour",
+        "strBartender": "Adam Fortuna"
+    },
+    {
+        "id": "alankropf",
+        "createCocktail": [
+            "acrossthepond",
+            "elginelixir",
+            "roundpondaperitif"
+        ],
+        "strBartender": "Alan Kropf"
+    },
+    {
+        "id": "alexquesada",
+        "createCocktail": "mothersuperior",
+        "strBartender": "Alex Quesada"
+    },
+    {
+        "id": "alexsmith",
+        "createCocktail": [
+            "theboysofsummercup",
+            "thequeenmother"
+        ],
+        "strBartender": "Alex Smith"
+    },
+    {
+        "id": "amylewis",
+        "createCocktail": "aregalair",
+        "strBartender": "Amy Lewis"
+    },
+    {
+        "id": "andrewgrala",
+        "createCocktail": "blindluck",
+        "strBartender": "Andrew Grala"
+    },
+    {
+        "id": "andrewkalini",
+        "createCocktail": "teasympathy",
+        "strBartender": "Andrew Kalini"
+    },
+    {
+        "id": "andyminchow",
+        "createCocktail": "georgiaoldfashioned",
+        "strBartender": "Andy Minchow"
+    },
+    {
+        "id": "annmaynard",
+        "createCocktail": "iipiacere",
+        "strBartender": "Ann Maynard"
+    },
+    {
+        "id": "anthonyparks",
+        "createCocktail": [
+            "coffeeclove",
+            "noriislay"
+        ],
+        "strBartender": "Anthony Parks"
+    },
+    {
+        "id": "arienchabolla",
+        "createCocktail": "shroudoftheinca",
+        "strBartender": "Arien Chabolla"
+    },
+    {
+        "id": "arimicahwilder",
+        "createCocktail": "irishgoodbye",
+        "strBartender": "Ari & Micah Wilder"
+    },
+    {
+        "id": "ashleyroseconway",
+        "createCocktail": "springflingsipper",
+        "strBartender": "Ashley Rose Conway"
+    },
+    {
+        "id": "ashleywacker",
+        "createCocktail": "impearedfashioned",
+        "strBartender": "Ashley Wacker"
+    },
+    {
+        "id": "bchoffman",
+        "createCocktail": "mayanmule",
+        "strBartender": "BC Hoffman"
+    },
+    {
+        "id": "benedictsimpson",
+        "createCocktail": "mexicomule",
+        "strBartender": "Benedict Simpson"
+    },
+    {
+        "id": "bonniewilson",
+        "createCocktail": "peachykeane",
+        "strBartender": "Bonnie Wilson"
+    },
+    {
+        "id": "brandonbigalke",
+        "createCocktail": "anoaxacanchristmas",
+        "strBartender": "Brandon Bigalke"
+    },
+    {
+        "id": "brandonweiss",
+        "createCocktail": "longdivision",
+        "strBartender": "Brandon Weiss"
+    },
+    {
+        "id": "brandonwise",
+        "createCocktail": "theprofessor",
+        "strBartender": "Brandon Wise"
+    },
+    {
+        "id": "brianfloyd",
+        "createCocktail": [
+            "bigandbright",
+            "cafecreole",
+            "frankieandjohnnie",
+            "thebrightside",
+            "thehouseofduncan"
+        ],
+        "strBartender": "Brian Floyd"
+    },
+    {
+        "id": "brianmacgregor",
+        "createCocktail": "speysideorchard",
+        "strBartender": "Brian MacGregor"
+    },
+    {
+        "id": "brianmeans",
+        "createCocktail": [
+            "abloodyshame",
+            "abovemypaygrade",
+            "atalltell",
+            "canaryvsthecoalmine",
+            "creekrandry",
+            "dirtnap",
+            "farfromthetree",
+            "fullofbologna",
+            "inhinesight",
+            "ironfistinavelvetglove",
+            "mandrake",
+            "mayahuelsrevenge",
+            "meanmartinez",
+            "newtonstheory",
+            "polishpenance",
+            "rudolphsrose",
+            "sagesound",
+            "shortroundii",
+            "snowbunny",
+            "underthesun"
+        ],
+        "strBartender": "Brian Means"
+    },
+    {
+        "id": "brianmiller",
+        "createCocktail": [
+            "conference",
+            "kiss",
+            "opakaraka"
+        ],
+        "strBartender": "Brian Miller"
+    },
+    {
+        "id": "brianquinn",
+        "createCocktail": "miyagikyokick",
+        "strBartender": "Brian Quinn"
+    },
+    {
+        "id": "brianvanflandern",
+        "createCocktail": "engagedandcant_aloupe",
+        "strBartender": "Brian Van Flandern"
+    },
+    {
+        "id": "brittinirae",
+        "createCocktail": "californiaaurora",
+        "strBartender": "Brittini Rae"
+    },
+    {
+        "id": "brucecole",
+        "createCocktail": "japonaisno3",
+        "strBartender": "Bruce Cole"
+    },
+    {
+        "id": "caitlinlaman",
+        "createCocktail": [
+            "chapmancobbler",
+            "jamaicapaloma",
+            "mezcalcoffeeoldfashioned"
+        ],
+        "strBartender": "Caitlin Laman"
+    },
+    {
+        "id": "calvinmarty",
+        "createCocktail": [
+            "farmersgold",
+            "juliaschild"
+        ],
+        "strBartender": "Calvin Marty"
+    },
+    {
+        "id": "carlosplendorini",
+        "createCocktail": [
+            "imonlyhappywhenitrains",
+            "luxjapaneselemonade"
+        ],
+        "strBartender": "Carlo Splendorini"
+    },
+    {
+        "id": "carlosyturria",
+        "createCocktail": "juniperojolly",
+        "strBartender": "Carlos Yturria"
+    },
+    {
+        "id": "carlwenger",
+        "createCocktail": "willow",
+        "strBartender": "Carl Wenger"
+    },
+    {
+        "id": "caterinamiltenberger",
+        "createCocktail": [
+            "luxorchardlemonade",
+            "maraschinosidecar",
+            "millemiglia",
+            "paradisosun",
+            "stonefruitpatchv1",
+            "stonefruitpatchv2",
+            "westcoastpunch"
+        ],
+        "strBartender": "Caterina Miltenberger"
+    },
+    {
+        "id": "catherine",
+        "createCocktail": "chteaumontifaudladytouchtriplesec",
+        "strBartender": "Catherine"
+    },
+    {
+        "id": "chadphilips",
+        "createCocktail": "endlesssummer",
+        "strBartender": "Chad Philips"
+    },
+    {
+        "id": "chaseware",
+        "createCocktail": "landofvalencia",
+        "strBartender": "Chase Ware"
+    },
+    {
+        "id": "chelsealittle",
+        "createCocktail": "106cocktail",
+        "strBartender": "Chelsea Little"
+    },
+    {
+        "id": "chrislane",
+        "createCocktail": "thebossanova",
+        "strBartender": "Chris Lane"
+    },
+    {
+        "id": "chrismorris",
+        "createCocktail": "fionagraham",
+        "strBartender": "Chris Morris"
+    },
+    {
+        "id": "christahavican",
+        "createCocktail": "laperledeverre",
+        "strBartender": "Christa Havican"
+    },
+    {
+        "id": "christopherbuono",
+        "createCocktail": "rxhottoddy",
+        "strBartender": "Christopher Buono"
+    },
+    {
+        "id": "clairechad",
+        "createCocktail": "littlegroundtapper",
+        "strBartender": "Claire & Chad"
+    },
+    {
+        "id": "clairesprouse",
+        "createCocktail": "westbank",
+        "strBartender": "Claire Sprouse"
+    },
+    {
+        "id": "clintrogers",
+        "createCocktail": [
+            "goattownswizzle",
+            "parisianmanhattan"
+        ],
+        "strBartender": "Clint Rogers"
+    },
+    {
+        "id": "collinnicholas",
+        "createCocktail": "pumpkinpecan",
+        "strBartender": "Collin Nicholas"
+    },
+    {
+        "id": "colyden",
+        "createCocktail": "elmustavo",
+        "strBartender": "Coly Den"
+    },
+    {
+        "id": "conalnielsen",
+        "createCocktail": "shadowcat",
+        "strBartender": "Conal Nielsen"
+    },
+    {
+        "id": "cristinabini",
+        "createCocktail": "framboisedepigeon",
+        "strBartender": "Cristina Bini"
+    },
+    {
+        "id": "crystalchasse",
+        "createCocktail": "yougoglencoco",
+        "strBartender": "Crystal Chasse"
+    },
+    {
+        "id": "daledegroff",
+        "createCocktail": "ritzcocktail",
+        "strBartender": "Dale DeGroff"
+    },
+    {
+        "id": "danielbraganca",
+        "createCocktail": "stilllifeofapineapple",
+        "strBartender": "Daniel Braganca"
+    },
+    {
+        "id": "danielromero",
+        "createCocktail": "kingsmule",
+        "strBartender": "Daniel Romero"
+    },
+    {
+        "id": "dannylouie",
+        "createCocktail": [
+            "abotanicalgarden",
+            "happiness"
+        ],
+        "strBartender": "Danny Louie"
+    },
+    {
+        "id": "daveguest",
+        "createCocktail": [
+            "partyintheagavefields",
+            "playamatalanmezcalnegroni",
+            "thekingmerletsidecar",
+            "3am"
+        ],
+        "strBartender": "Dave Guest"
+    },
+    {
+        "id": "davidruiz",
+        "createCocktail": [
+            "nickjanae",
+            "nuestrajulep"
+        ],
+        "strBartender": "David Ruiz"
+    },
+    {
+        "id": "delprado",
+        "createCocktail": "cherryorchard",
+        "strBartender": "Del Prado"
+    },
+    {
+        "id": "devinhardy",
+        "createCocktail": "sanfransoda",
+        "strBartender": "Devin Hardy"
+    },
+    {
+        "id": "diegosanchez",
+        "createCocktail": [
+            "mangono3",
+            "wooster53"
+        ],
+        "strBartender": "Diego Sanchez"
+    },
+    {
+        "id": "douglasford",
+        "createCocktail": [
+            "derniermot",
+            "finalward",
+            "theasterisk",
+            "thesilvercocktail"
+        ],
+        "strBartender": "Douglas Ford"
+    },
+    {
+        "id": "duanefernandez",
+        "createCocktail": "floralsummer",
+        "strBartender": "Duane Fernandez"
+    },
+    {
+        "id": "dugganmcdonnell",
+        "createCocktail": "buccaneer",
+        "strBartender": "Duggan McDonnell"
+    },
+    {
+        "id": "edgarjoselinosolis",
+        "createCocktail": "pricklypearmargarita",
+        "strBartender": "Edgar & Joselino Solis"
+    },
+    {
+        "id": "eduardovalnaval",
+        "createCocktail": "naramule",
+        "strBartender": "Eduardo Val Naval"
+    },
+    {
+        "id": "elainecollum",
+        "createCocktail": "clearintentions",
+        "strBartender": "Elaine Collum"
+    },
+    {
+        "id": "elizabethmontana",
+        "createCocktail": "thehappyplace",
+        "strBartender": "Elizabeth Montana"
+    },
+    {
+        "id": "elmermejicano",
+        "createCocktail": "downtherabbithole",
+        "strBartender": "Elmer Mejicano"
+    },
+    {
+        "id": "elodie",
+        "createCocktail": "chteaumontifaudpinklove",
+        "strBartender": "Elodie"
+    },
+    {
+        "id": "elyseblechman",
+        "createCocktail": "radiceamara",
+        "strBartender": "Elyse Blechman"
+    },
+    {
+        "id": "emilyardenwells",
+        "createCocktail": "cherryshandy",
+        "strBartender": "Emily Arden Wells"
+    },
+    {
+        "id": "enriquesanchez",
+        "createCocktail": [
+            "bajocontrol",
+            "hotalingoldtomgin",
+            "lamadrugada",
+            "margaritaahumeada",
+            "piscopunchadaptationbythecommissary"
+        ],
+        "strBartender": "Enrique Sanchez"
+    },
+    {
+        "id": "ericquilty",
+        "createCocktail": [
+            "dayfornight",
+            "onthefritz"
+        ],
+        "strBartender": "Eric Quilty"
+    },
+    {
+        "id": "francescolafranconi",
+        "createCocktail": [
+            "abanosour",
+            "abrazolatino",
+            "amarettosourmodern",
+            "amimaneramywaypiscopunch",
+            "apricotblush",
+            "blackjam",
+            "bloodyfernet",
+            "citrusquoadapted",
+            "clubmed",
+            "creolesummer",
+            "culebra",
+            "dutchstories",
+            "elcortez",
+            "essenceno5adapted",
+            "fernetfrappe",
+            "garrisonsnewfashioned",
+            "glimpseofseduction",
+            "kentuckylikker",
+            "kissofpersuasion",
+            "kumquatsmash",
+            "morlaccojulep",
+            "mystiquegreenadapted",
+            "pacificbreeze",
+            "padovacollins",
+            "peruvianwishadapted",
+            "pinadeleste",
+            "pistachiofollies",
+            "smokeonthedock",
+            "soleo",
+            "sorrentino",
+            "sorrisoadapted",
+            "theawen",
+            "thebacchuscocktail",
+            "theladywhisper",
+            "thelastwish",
+            "toasteddrop",
+            "tropicalbronzer",
+            "vidaverdeadapted"
+        ],
+        "strBartender": "Francesco Lafranconi"
+    },
+    {
+        "id": "frankymarshall",
+        "createCocktail": "thecappa",
+        "strBartender": "Franky Marshall"
+    },
+    {
+        "id": "gabrielemodica",
+        "createCocktail": "10to7",
+        "strBartender": "Gabriele Modica"
+    },
+    {
+        "id": "ginascheurte",
+        "createCocktail": "oaxacanmartini",
+        "strBartender": "Gina Scheurte"
+    },
+    {
+        "id": "grahamhuntergregg",
+        "createCocktail": "piedradesol",
+        "strBartender": "Graham Hunter Gregg"
+    },
+    {
+        "id": "halbrock",
+        "createCocktail": "theitaliandiplomat",
+        "strBartender": "Hal Brock"
+    },
+    {
+        "id": "haroldmadison",
+        "createCocktail": "bacioromana",
+        "strBartender": "Harold Madison"
+    },
+    {
+        "id": "hungnguyen",
+        "createCocktail": "negronisorbetto",
+        "strBartender": "Hung Nguyen"
+    },
+    {
+        "id": "ianjulian",
+        "createCocktail": "kingssnapthechocolateoutofyou",
+        "strBartender": "Ian Julian"
+    },
+    {
+        "id": "ianscalzo",
+        "createCocktail": "thechief",
+        "strBartender": "Ian Scalzo"
+    },
+    {
+        "id": "jackiegoldstein",
+        "createCocktail": "wherestheorgeat",
+        "strBartender": "Jackie Goldstein"
+    },
+    {
+        "id": "jacksoncannon",
+        "createCocktail": "thegreatpumpkincocktail",
+        "strBartender": "Jackson Cannon"
+    },
+    {
+        "id": "jacques",
+        "createCocktail": [
+            "kindoffancy",
+            "lonesomegeorge"
+        ],
+        "strBartender": "Jacques"
+    },
+    {
+        "id": "jacyaradeoliveira",
+        "createCocktail": [
+            "thedrycruise",
+            "yesqueen"
+        ],
+        "strBartender": "Jacyara de Oliveira"
+    },
+    {
+        "id": "jamesmartin",
+        "createCocktail": "bachelorsbait",
+        "strBartender": "James Martin"
+    },
+    {
+        "id": "jaredschubert",
+        "createCocktail": "theinsidejob",
+        "strBartender": "Jared Schubert"
+    },
+    {
+        "id": "jarredweigand",
+        "createCocktail": "matchgripjulep",
+        "strBartender": "Jarred Weigand"
+    },
+    {
+        "id": "jasonfendick",
+        "createCocktail": "passionatepigeon",
+        "strBartender": "Jason Fendick"
+    },
+    {
+        "id": "jasonlee",
+        "createCocktail": "bubbleliciouslydelicious",
+        "strBartender": "Jason Lee"
+    },
+    {
+        "id": "jasonlittrell",
+        "createCocktail": "almondbrother",
+        "strBartender": "Jason Littrell"
+    },
+    {
+        "id": "jasonpatz",
+        "createCocktail": [
+            "hollandhouse",
+            "unionjack"
+        ],
+        "strBartender": "Jason Patz"
+    },
+    {
+        "id": "jasonrager",
+        "createCocktail": "youbetyourascot",
+        "strBartender": "Jason Rager"
+    },
+    {
+        "id": "jasonwestplate",
+        "createCocktail": [
+            "greyanchor",
+            "redletters"
+        ],
+        "strBartender": "Jason Westplate"
+    },
+    {
+        "id": "jaymeemandeville",
+        "createCocktail": "lalaland",
+        "strBartender": "Jaymee Mandeville"
+    },
+    {
+        "id": "jayzimmerman",
+        "createCocktail": "angelsface",
+        "strBartender": "Jay Zimmerman"
+    },
+    {
+        "id": "jeffbell",
+        "createCocktail": "thedoublecrown",
+        "strBartender": "Jeff Bell"
+    },
+    {
+        "id": "jefffaile",
+        "createCocktail": "negronidamore",
+        "strBartender": "Jeff Faile"
+    },
+    {
+        "id": "jeffhollinger",
+        "createCocktail": [
+            "californiascallin",
+            "hopped_upmule",
+            "hotalingseasideshandy",
+            "martinez",
+            "thereservedking"
+        ],
+        "strBartender": "Jeff Hollinger"
+    },
+    {
+        "id": "jeffkinder",
+        "createCocktail": "thecanevaricocktail",
+        "strBartender": "Jeff Kinder"
+    },
+    {
+        "id": "jennifercostellocharleslintottsarahholmes",
+        "createCocktail": "strikeno3",
+        "strBartender": "Jennifer Costello, Charles Lintott, Sarah Holmes"
+    },
+    {
+        "id": "jeramycampbell",
+        "createCocktail": "hearditthroughthegrapevine",
+        "strBartender": "Jeramy Campbell"
+    },
+    {
+        "id": "jessicagonzalez",
+        "createCocktail": "sadestaboo",
+        "strBartender": "Jessica Gonzalez"
+    },
+    {
+        "id": "jessicamaria",
+        "createCocktail": "deliciousinmauritius",
+        "strBartender": "Jessica Maria"
+    },
+    {
+        "id": "jillianvose",
+        "createCocktail": "boomingranny",
+        "strBartender": "Jillian Vose"
+    },
+    {
+        "id": "jimmeehan",
+        "createCocktail": [
+            "frenchmaid",
+            "pineappleexpress",
+            "thesunalsorises"
+        ],
+        "strBartender": "Jim Meehan"
+    },
+    {
+        "id": "joaquinsimo",
+        "createCocktail": [
+            "lefemmenikita",
+            "muddledmission",
+            "solerasidecar"
+        ],
+        "strBartender": "Joaquin Simo"
+    },
+    {
+        "id": "johelhuamanbarbosachristianhurtado",
+        "createCocktail": [
+            "brisadelsur",
+            "chingerito"
+        ],
+        "strBartender": "Johel Huaman Barbosa & Christian Hurtado"
+    },
+    {
+        "id": "johncodd",
+        "createCocktail": "saharaglowingheart",
+        "strBartender": "John Codd"
+    },
+    {
+        "id": "johndavis",
+        "createCocktail": "thefrenchconnection",
+        "strBartender": "John Davis"
+    },
+    {
+        "id": "johndebarry",
+        "createCocktail": [
+            "nigamono",
+            "northernhemispherenikka12edition"
+        ],
+        "strBartender": "John deBarry"
+    },
+    {
+        "id": "johnweyrich",
+        "createCocktail": "peterpumpkin",
+        "strBartender": "John Weyrich"
+    },
+    {
+        "id": "jonathanpogash",
+        "createCocktail": "santapatricia",
+        "strBartender": "Jonathan Pogash"
+    },
+    {
+        "id": "jonmorales",
+        "createCocktail": [
+            "bonvoyagepiscopunch",
+            "seeyoutamaro"
+        ],
+        "strBartender": "Jon Morales"
+    },
+    {
+        "id": "jonruiz",
+        "createCocktail": "ipamule",
+        "strBartender": "Jon Ruiz"
+    },
+    {
+        "id": "josepereiro",
+        "createCocktail": "cutrum",
+        "strBartender": "Jose Pereiro"
+    },
+    {
+        "id": "joshbearden",
+        "createCocktail": "thecallascocktail",
+        "strBartender": "Josh Bearden"
+    },
+    {
+        "id": "joshruiz",
+        "createCocktail": "seersuckersunshine",
+        "strBartender": "Josh Ruiz"
+    },
+    {
+        "id": "joshtrabulsi",
+        "createCocktail": [
+            "cherrybarkmartinez",
+            "merrysherrycobbler"
+        ],
+        "strBartender": "Josh Trabulsi"
+    },
+    {
+        "id": "jourdanreinhart",
+        "createCocktail": "thetahoetoddy",
+        "strBartender": "Jourdan Reinhart"
+    },
+    {
+        "id": "joyrichards",
+        "createCocktail": "thesixthsense",
+        "strBartender": "Joy Richards"
+    },
+    {
+        "id": "juliamomose",
+        "createCocktail": "cullertonstreet",
+        "strBartender": "Julia Momose"
+    },
+    {
+        "id": "juliancox",
+        "createCocktail": "donaji",
+        "strBartender": "Julian Cox"
+    },
+    {
+        "id": "julianmiller",
+        "createCocktail": "asouthernjackass",
+        "strBartender": "Julian Miller"
+    },
+    {
+        "id": "justinware",
+        "createCocktail": "bittervalencia",
+        "strBartender": "Justin Ware"
+    },
+    {
+        "id": "karengrill",
+        "createCocktail": "loxstocktwosmokingbarrels",
+        "strBartender": "Karen Grill"
+    },
+    {
+        "id": "karricormican",
+        "createCocktail": [
+            "ginmademedoit",
+            "hippihill"
+        ],
+        "strBartender": "Karri Cormican"
+    },
+    {
+        "id": "katebolton",
+        "createCocktail": "tahitianfix",
+        "strBartender": "Kate Bolton"
+    },
+    {
+        "id": "kategrutman",
+        "createCocktail": [
+            "bayshandy",
+            "birdonawire",
+            "bubblybird",
+            "carrierpigeonanairmailwithpinkpigeon",
+            "flipthebird",
+            "huntsman",
+            "ju_juhurricane",
+            "ontheflipside",
+            "peacedaiquiri",
+            "pinkmojito",
+            "pinkribbon",
+            "theladybird",
+            "winterswizzle"
+        ],
+        "strBartender": "Kate Grutman"
+    },
+    {
+        "id": "katekaikaew",
+        "createCocktail": "anise",
+        "strBartender": "Kate KaiKaew"
+    },
+    {
+        "id": "kelirivers",
+        "createCocktail": [
+            "cock_tail",
+            "erasmusrevenge"
+        ],
+        "strBartender": "Keli Rivers"
+    },
+    {
+        "id": "kellymccarthy",
+        "createCocktail": [
+            "flordeamaras",
+            "oldtomandthesea"
+        ],
+        "strBartender": "Kelly McCarthy"
+    },
+    {
+        "id": "kellyohare",
+        "createCocktail": "birdon",
+        "strBartender": "Kelly O'Hare"
+    },
+    {
+        "id": "kenluciano",
+        "createCocktail": [
+            "croatiafiringsquad",
+            "delicioussour",
+            "fourthgeneration"
+        ],
+        "strBartender": "Ken Luciano"
+    },
+    {
+        "id": "kentagoto",
+        "createCocktail": "yuzusazerac",
+        "strBartender": "Kenta Goto"
+    },
+    {
+        "id": "kevindiedrich",
+        "createCocktail": [
+            "almondcrusta",
+            "champagnesidecar",
+            "charenteroyale",
+            "creole",
+            "figgeboutit",
+            "jalapeosour",
+            "kerouac",
+            "mezcalwitch",
+            "ohsnap",
+            "orchardmaltmule",
+            "piscosling",
+            "southsidefizz",
+            "spicedmarmalade",
+            "tokyotea",
+            "tt",
+            "waroftheroses"
+        ],
+        "strBartender": "Kevin Diedrich"
+    },
+    {
+        "id": "kevinmabry",
+        "createCocktail": "yourebitterthanthat",
+        "strBartender": "Kevin Mabry"
+    },
+    {
+        "id": "kevinmartin",
+        "createCocktail": [
+            "dontrocktheboatpunch",
+            "kingstoddy"
+        ],
+        "strBartender": "Kevin Martin"
+    },
+    {
+        "id": "kimrosselle",
+        "createCocktail": [
+            "springforward",
+            "thelasttango"
+        ],
+        "strBartender": "Kim Rosselle"
+    },
+    {
+        "id": "kjwilliams",
+        "createCocktail": "plumloco",
+        "strBartender": "KJ Williams"
+    },
+    {
+        "id": "laineycollum",
+        "createCocktail": "palermobreeze",
+        "strBartender": "Lainey Collum"
+    },
+    {
+        "id": "larrymiller",
+        "createCocktail": "masatakasvision",
+        "strBartender": "Larry Miller"
+    },
+    {
+        "id": "lauramaddox",
+        "createCocktail": "jammiedodgerfizz",
+        "strBartender": "Laura Maddox"
+    },
+    {
+        "id": "laurensanchez",
+        "createCocktail": [
+            "brazilianmulepunch",
+            "pratapunch",
+            "ypiocachilepunch"
+        ],
+        "strBartender": "Lauren Sanchez"
+    },
+    {
+        "id": "laurent",
+        "createCocktail": "chteaumontifaudonmint",
+        "strBartender": "Laurent"
+    },
+    {
+        "id": "lauriesheddan",
+        "createCocktail": "thesparkler",
+        "strBartender": "Laurie Sheddan"
+    },
+    {
+        "id": "leilanibrennan",
+        "createCocktail": "goldrush",
+        "strBartender": "Leilani Brennan"
+    },
+    {
+        "id": "leorobitschek",
+        "createCocktail": "mottandmulberry",
+        "strBartender": "Leo Robitschek"
+    },
+    {
+        "id": "lindasalinas",
+        "createCocktail": "clearlybitter",
+        "strBartender": "Linda Salinas"
+    },
+    {
+        "id": "lisabrier",
+        "createCocktail": "thymeforbed",
+        "strBartender": "Lisa Brier"
+    },
+    {
+        "id": "lizpearce",
+        "createCocktail": "thefifthstar",
+        "strBartender": "Liz Pearce"
+    },
+    {
+        "id": "lorismelis",
+        "createCocktail": "marchesa",
+        "strBartender": "Loris Melis"
+    },
+    {
+        "id": "luciastucki",
+        "createCocktail": "fieryclydesdale",
+        "strBartender": "Lucia Stucki"
+    },
+    {
+        "id": "luishernandez",
+        "createCocktail": "lamaracuja",
+        "strBartender": "Luis Hernandez"
+    },
+    {
+        "id": "lukeridge",
+        "createCocktail": "thelastmarasca",
+        "strBartender": "Luke Ridge"
+    },
+    {
+        "id": "lynnettemarrero",
+        "createCocktail": [
+            "americanafizzlayeredcocktail",
+            "rhapsodyinred",
+            "rosesangria",
+            "seeyaamaro"
+        ],
+        "strBartender": "Lynnette Marrero"
+    },
+    {
+        "id": "marielbordas",
+        "createCocktail": "macksapple",
+        "strBartender": "Mariel Bordas"
+    },
+    {
+        "id": "marvinallen",
+        "createCocktail": [
+            "chilcanovariation",
+            "thekingsmule"
+        ],
+        "strBartender": "Marvin Allen"
+    },
+    {
+        "id": "mattgrippo",
+        "createCocktail": [
+            "applesgrapes",
+            "biancoamericano",
+            "sanfranciscostrongskrong",
+            "thekingsmedicine"
+        ],
+        "strBartender": "Matt Grippo"
+    },
+    {
+        "id": "matthewbiancaniello",
+        "createCocktail": [
+            "cloverholidaycocktail",
+            "lovageinthegarden"
+        ],
+        "strBartender": "Matthew Biancaniello"
+    },
+    {
+        "id": "matthewpolzin",
+        "createCocktail": "onthewingsofeagles",
+        "strBartender": "Matthew Polzin"
+    },
+    {
+        "id": "mattorth",
+        "createCocktail": "nectaroftheamazon",
+        "strBartender": "Matt Orth"
+    },
+    {
+        "id": "mattsolario",
+        "createCocktail": "buenaventura",
+        "strBartender": "Matt Solario"
+    },
+    {
+        "id": "matttocco",
+        "createCocktail": "strangerinthealps",
+        "strBartender": "Matt Tocco"
+    },
+    {
+        "id": "maxwellbritten",
+        "createCocktail": "lacapilla",
+        "strBartender": "Maxwell Britten"
+    },
+    {
+        "id": "megandaniel",
+        "createCocktail": "sanfranciscoharvest",
+        "strBartender": "Megan Daniel"
+    },
+    {
+        "id": "michaelblum",
+        "createCocktail": "winterseason",
+        "strBartender": "Michael Blum"
+    },
+    {
+        "id": "michaelesposito",
+        "createCocktail": "thepalacecellar",
+        "strBartender": "Michael Esposito"
+    },
+    {
+        "id": "michaeljackpazdon",
+        "createCocktail": "portsnorthfogcuttercup",
+        "strBartender": "Michael Jack Pazdon"
+    },
+    {
+        "id": "michaelparish",
+        "createCocktail": "lychee3",
+        "strBartender": "Michael Parish"
+    },
+    {
+        "id": "michel",
+        "createCocktail": "chteaumontifaudontherocks",
+        "strBartender": "Michel"
+    },
+    {
+        "id": "mistykalkofen",
+        "createCocktail": "spaceagepop",
+        "strBartender": "Misty Kalkofen"
+    },
+    {
+        "id": "mohodgesbrianfelley",
+        "createCocktail": "thedouglastilden",
+        "strBartender": "Mo Hodges & Brian Felley"
+    },
+    {
+        "id": "monicaanderson",
+        "createCocktail": "amarettojelloshotwhynot",
+        "strBartender": "Monica Anderson"
+    },
+    {
+        "id": "morganschick",
+        "createCocktail": [
+            "buzzardsbay",
+            "coosbay",
+            "knockemdownkey",
+            "phineasflip",
+            "princeofhumbugs",
+            "redondobeach",
+            "swedishnightingale",
+            "thegreatestpunchonearth",
+            "yawkeyway"
+        ],
+        "strBartender": "Morgan Schick"
+    },
+    {
+        "id": "nandinikhaund",
+        "createCocktail": "templeofthemoon",
+        "strBartender": "Nandini Khaund"
+    },
+    {
+        "id": "naomilevy",
+        "createCocktail": [
+            "luxshandy",
+            "truedish"
+        ],
+        "strBartender": "Naomi Levy"
+    },
+    {
+        "id": "narenyoung",
+        "createCocktail": "hibiscuspiscosour",
+        "strBartender": "Naren Young"
+    },
+    {
+        "id": "natashabahrami",
+        "createCocktail": "spanishgt",
+        "strBartender": "Natasha Bahrami"
+    },
+    {
+        "id": "natashadavid",
+        "createCocktail": "platonicsnuggle",
+        "strBartender": "Natasha David"
+    },
+    {
+        "id": "natejimenez",
+        "createCocktail": "thebigpicture",
+        "strBartender": "Nate Jimenez"
+    },
+    {
+        "id": "natematson",
+        "createCocktail": "lastsamurai",
+        "strBartender": "Nate Matson"
+    },
+    {
+        "id": "nickjones",
+        "createCocktail": [
+            "bakkozengo",
+            "classiclolita"
+        ],
+        "strBartender": "Nick Jones"
+    },
+    {
+        "id": "nickmeyer",
+        "createCocktail": [
+            "doitashimashie",
+            "luckyno3",
+            "motelnacional"
+        ],
+        "strBartender": "Nick Meyer"
+    },
+    {
+        "id": "nicolehassoun",
+        "createCocktail": "thefall75",
+        "strBartender": "Nicole Hassoun"
+    },
+    {
+        "id": "nikvirrey",
+        "createCocktail": "thebitteredvalley",
+        "strBartender": "Nik Virrey"
+    },
+    {
+        "id": "nusanbrounstein",
+        "createCocktail": "barrelagedgingernegroni",
+        "strBartender": "Nusan Brounstein"
+    },
+    {
+        "id": "pashamorshedi",
+        "createCocktail": "lachiara",
+        "strBartender": "Pasha Morshedi"
+    },
+    {
+        "id": "patrickhalloran",
+        "createCocktail": "redhook",
+        "strBartender": "Patrick Halloran"
+    },
+    {
+        "id": "patrickpoelvoorde",
+        "createCocktail": "secondcitysour",
+        "strBartender": "Patrick Poelvoorde"
+    },
+    {
+        "id": "paulsauter",
+        "createCocktail": "labatidaloca",
+        "strBartender": "Paul Sauter"
+    },
+    {
+        "id": "paultaylor",
+        "createCocktail": [
+            "eatdrinkandbecherry",
+            "nekocolada",
+            "preparefordestinywheresmypizza"
+        ],
+        "strBartender": "Paul Taylor"
+    },
+    {
+        "id": "phillipricafort",
+        "createCocktail": "wabashavenuesour",
+        "strBartender": "Phillip Ricafort"
+    },
+    {
+        "id": "philward",
+        "createCocktail": [
+            "divisionbell",
+            "sidewinder",
+            "tratohecho"
+        ],
+        "strBartender": "Phil Ward"
+    },
+    {
+        "id": "qweshabyrd",
+        "createCocktail": "fuji_la",
+        "strBartender": "Qwesha Byrd"
+    },
+    {
+        "id": "rafaeljimenezrivera",
+        "createCocktail": "champslyses",
+        "strBartender": "Rafael Jimenez Rivera"
+    },
+    {
+        "id": "rafagarcafebles",
+        "createCocktail": "feingold",
+        "strBartender": "Rafa García Febles"
+    },
+    {
+        "id": "raulayala",
+        "createCocktail": [
+            "the42ndround",
+            "thenuttysensation",
+            "xmasinjuniper"
+        ],
+        "strBartender": "Raul Ayala"
+    },
+    {
+        "id": "rebeccaburkart",
+        "createCocktail": "agiftfromzara",
+        "strBartender": "Rebecca Burkart"
+    },
+    {
+        "id": "revaeschneider",
+        "createCocktail": [
+            "no10",
+            "no3"
+        ],
+        "strBartender": "Revae Schneider"
+    },
+    {
+        "id": "rezaesmaili",
+        "createCocktail": "theshahsshandy",
+        "strBartender": "Reza Esmaili"
+    },
+    {
+        "id": "richardbailey",
+        "createCocktail": "newbeginnings",
+        "strBartender": "Richard Bailey"
+    },
+    {
+        "id": "robbycook",
+        "createCocktail": "whitetie",
+        "strBartender": "Robby Cook"
+    },
+    {
+        "id": "robertkrueger",
+        "createCocktail": "nelliefertoddy",
+        "strBartender": "Robert Krueger"
+    },
+    {
+        "id": "ronaldocolli",
+        "createCocktail": "mayandecadence",
+        "strBartender": "Ronaldo Colli"
+    },
+    {
+        "id": "russelldavid",
+        "createCocktail": "jackcherrysour2001remix",
+        "strBartender": "Russell David"
+    },
+    {
+        "id": "russelldavis",
+        "createCocktail": [
+            "alovesong",
+            "dropsofjupiter",
+            "endofwinter",
+            "hopped_upmary",
+            "theloversquarrel",
+            "westcoastvesper"
+        ],
+        "strBartender": "Russell Davis"
+    },
+    {
+        "id": "ryanchetiyawardana",
+        "createCocktail": [
+            "drymauritiansour",
+            "flipandflight",
+            "mulepigeon",
+            "thepinkaperitivo"
+        ],
+        "strBartender": "Ryan Chetiyawardana"
+    },
+    {
+        "id": "ryanfitzgerald",
+        "createCocktail": "bustercrusta",
+        "strBartender": "Ryan Fitzgerald"
+    },
+    {
+        "id": "ryanhall",
+        "createCocktail": "doubletrouble",
+        "strBartender": "Ryan Hall"
+    },
+    {
+        "id": "ryanlotz",
+        "createCocktail": "thefritz",
+        "strBartender": "Ryan Lotz"
+    },
+    {
+        "id": "samtreadway",
+        "createCocktail": [
+            "basilwaydaquiri",
+            "flighttoperu"
+        ],
+        "strBartender": "Sam Treadway"
+    },
+    {
+        "id": "samwiener",
+        "createCocktail": "slowride",
+        "strBartender": "Sam Wiener"
+    },
+    {
+        "id": "sarahmanowitz",
+        "createCocktail": "thenaughtynice",
+        "strBartender": "Sarah Manowitz"
+    },
+    {
+        "id": "sarahruiz",
+        "createCocktail": "justbeetit",
+        "strBartender": "Sarah Ruiz"
+    },
+    {
+        "id": "saulranella",
+        "createCocktail": "thecommissionerstrophy3",
+        "strBartender": "Saul Ranella"
+    },
+    {
+        "id": "scottbaird",
+        "createCocktail": "amarettosourbv_style",
+        "strBartender": "Scott Baird"
+    },
+    {
+        "id": "scottbrody",
+        "createCocktail": "ypiocayellowcard",
+        "strBartender": "Scott Brody"
+    },
+    {
+        "id": "seangleason",
+        "createCocktail": [
+            "pantsoffdanceoff",
+            "sidecar"
+        ],
+        "strBartender": "Sean Gleason"
+    },
+    {
+        "id": "seanmcclure",
+        "createCocktail": [
+            "appleshrubspritz",
+            "asianaffair",
+            "bloodyswede",
+            "chillivanilli",
+            "edensapple",
+            "goldspritz",
+            "karlssonskoldbrew",
+            "karlssonswinterpunch",
+            "lesismore",
+            "nieuxcarr",
+            "pbkoldfashioned",
+            "pearandcranberryfizz",
+            "phadthai",
+            "pumpkinandspice",
+            "rootdown",
+            "swedish75",
+            "swedishroyal",
+            "tambourine",
+            "vinterpls"
+        ],
+        "strBartender": "Sean McClure"
+    },
+    {
+        "id": "sergioleanza",
+        "createCocktail": "assemblemule",
+        "strBartender": "Sergio Leanza"
+    },
+    {
+        "id": "shahermisif",
+        "createCocktail": "odetokinshi",
+        "strBartender": "Shaher Misif"
+    },
+    {
+        "id": "sophie",
+        "createCocktail": "chteaumontifaudcreation",
+        "strBartender": "Sophie"
+    },
+    {
+        "id": "sotherteague",
+        "createCocktail": "heartbreaker",
+        "strBartender": "Sother Teague"
+    },
+    {
+        "id": "stjohnfrizell",
+        "createCocktail": "hannyshotappletoddy",
+        "strBartender": "St. John Frizell"
+    },
+    {
+        "id": "stuartmccloskey",
+        "createCocktail": "teapartycocktail",
+        "strBartender": "Stuart McCloskey"
+    },
+    {
+        "id": "takumiwatanabe",
+        "createCocktail": "cove",
+        "strBartender": "Takumi  Watanabe"
+    },
+    {
+        "id": "taylorwright",
+        "createCocktail": "harmsway",
+        "strBartender": "Taylor Wright"
+    },
+    {
+        "id": "thadvogler",
+        "createCocktail": "improvedcalvadoscocktail",
+        "strBartender": "Thad Vogler"
+    },
+    {
+        "id": "theosabatini",
+        "createCocktail": "potrerohill",
+        "strBartender": "Theo Sabatini"
+    },
+    {
+        "id": "tikidave",
+        "createCocktail": "birdtobuck",
+        "strBartender": "Tiki Dave"
+    },
+    {
+        "id": "tineketriggs",
+        "createCocktail": "thealpinemist",
+        "strBartender": "Tineke Triggs"
+    },
+    {
+        "id": "tobycecchini",
+        "createCocktail": [
+            "espcedesazerac",
+            "lesangetsable"
+        ],
+        "strBartender": "Toby Cecchini"
+    },
+    {
+        "id": "tomcavazos",
+        "createCocktail": "fizzyrhubarbmule",
+        "strBartender": "Tom Cavazos"
+    },
+    {
+        "id": "tonyabouganim",
+        "createCocktail": "neighborhoodnegroni",
+        "strBartender": "Tony Abou-Ganim"
+    },
+    {
+        "id": "torrenceswain",
+        "createCocktail": "nikkasgoldencherry",
+        "strBartender": "Torrence Swain"
+    },
+    {
+        "id": "triciaalley",
+        "createCocktail": "gingerdrop",
+        "strBartender": "Tricia Alley"
+    },
+    {
+        "id": "tylerchauvin",
+        "createCocktail": [
+            "bailedeverano",
+            "bokobuku",
+            "captofthesevenseas",
+            "strollthroughthepark",
+            "tequilasunflare"
+        ],
+        "strBartender": "Tyler Chauvin"
+    },
+    {
+        "id": "vincetoscano",
+        "createCocktail": "thestandby",
+        "strBartender": "Vince Toscano"
+    },
+    {
+        "id": "williamgolde",
+        "createCocktail": [
+            "pda",
+            "sabotage",
+            "smashinggreatpumpkins"
+        ],
+        "strBartender": "William Golde"
+    },
+    {
+        "id": "zacharybriantaylor",
+        "createCocktail": [
+            "cocaomartini",
+            "theswedish"
+        ],
+        "strBartender": "Zachary Brian Taylor"
+    },
+    {
+        "id": "zacharypearson",
+        "createCocktail": "drinklab16",
+        "strBartender": "Zachary Pearson"
+    }
+]

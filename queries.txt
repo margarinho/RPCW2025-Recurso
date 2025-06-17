@@ -1,0 +1,61 @@
+19- Distribuição de cocktails por bartender, ordenada descendentemente
+PREFIX : <http://www.di.uminho.pt/rpcw2025/PG55921/>
+
+SELECT ?bartender (COUNT(?cocktail) AS ?numCocktails)
+WHERE {
+  ?cocktail a :Cocktail .
+  ?cocktail :createdByBartender ?bartender .
+}
+GROUP BY ?bartender
+ORDER BY DESC(?numCocktails)
+
+20-  Distribuição de cocktails por ingrediente
+PREFIX : <http://www.di.uminho.pt/rpcw2025/PG55921/>
+
+SELECT ?ingredient (COUNT(DISTINCT ?cocktail) AS ?numCocktails)
+WHERE {
+  ?cocktail a :Cocktail .
+  ?cocktail :hasQuantity ?quantity .
+  ?quantity :useIngredient ?ingredient .
+}
+GROUP BY ?ingredient
+ORDER BY DESC(?numCocktails)
+
+21- Cocktails mais complexos (com mais de 3 ingredientes)
+PREFIX : <http://www.di.uminho.pt/rpcw2025/PG55921/>
+
+SELECT ?cocktail ?name (GROUP_CONCAT(DISTINCT ?ingredient; separator=", ") AS ?ingredientsList)
+WHERE {
+  ?cocktail a :Cocktail .
+  ?cocktail :drinkName ?name .
+  ?cocktail :hasQuantity ?quantity .
+  ?quantity :useIngredient ?ingredient .
+}
+GROUP BY ?cocktail ?name
+HAVING (COUNT(DISTINCT ?ingredient) > 3)
+ORDER BY DESC(COUNT(DISTINCT ?ingredient))
+
+22-  Ingredientes e quantidades para 10 unidades de cocktails específicos
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX : <http://www.di.uminho.pt/rpcw2025/PG55921/>
+
+SELECT ?ingredient ?ingredientName (SUM(xsd:decimal(?quantityValue) * 10) AS ?totalQuantity) ?quantityUnit
+WHERE {
+  VALUES ?cocktailName { "ace" "agiftfromzara" "geauxgeauxcup" "martini" "passionatepigeon" }
+  
+  ?cocktail a :Cocktail ;
+            :idDrink ?cocktailName ;
+            :hasQuantity ?quantity .
+  ?quantity :useIngredient ?ingredient ;
+            :quantity ?quantityLiteral .
+  ?ingredient :strIngredient ?ingredientName .
+  
+  BIND(STR(?quantityLiteral) AS ?quantityStr)
+  BIND(REPLACE(?quantityStr, "[^0-9\\.]", "") AS ?quantityValueStr)
+  BIND(xsd:decimal(?quantityValueStr) AS ?quantityValue)
+  BIND(REPLACE(?quantityStr, "^[0-9\\.]+", "") AS ?quantityUnit)
+}
+GROUP BY ?ingredient ?ingredientName ?quantityUnit
+ORDER BY ?ingredientName
+
+

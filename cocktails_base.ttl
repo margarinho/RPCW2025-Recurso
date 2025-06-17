@@ -1,0 +1,182 @@
+@prefix : <http://www.di.uminho.pt/rpcw2025/PG55921/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.di.uminho.pt/rpcw2025/PG55921/> .
+
+<http://www.di.uminho.pt/rpcw2025/PG55921> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#asGarnishCocktail
+:asGarnishCocktail rdf:type owl:ObjectProperty ;
+                   rdfs:domain :Ingredient ;
+                   rdfs:range :Cocktail .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#createCocktail
+:createCocktail rdf:type owl:ObjectProperty ;
+                rdfs:domain :Bartender ;
+                rdfs:range :Cocktail .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#createdByBartender
+:createdByBartender rdf:type owl:ObjectProperty ;
+                    rdfs:domain :Cocktail ;
+                    rdfs:range :Bartender .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#garnishWithIngredient
+:garnishWithIngredient rdf:type owl:ObjectProperty ;
+                       rdfs:domain :Cocktail ;
+                       rdfs:range :Ingredient .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#hasQuantity
+:hasQuantity rdf:type owl:ObjectProperty ;
+             rdfs:domain :Cocktail ;
+             rdfs:range :Quantity .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#isAssociatedToCocktail
+:isAssociatedToCocktail rdf:type owl:ObjectProperty ;
+                        rdfs:domain :Bar ;
+                        rdfs:range :Cocktail .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#isUsedCocktail
+:isUsedCocktail rdf:type owl:ObjectProperty ;
+                rdfs:domain :Quantity ;
+                rdfs:range :Cocktail .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#useIngredient
+:useIngredient rdf:type owl:ObjectProperty ;
+               rdfs:domain :Quantity ;
+               rdfs:range :Ingredient .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#drinkName
+:drinkName rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Cocktail ;
+           rdfs:range xsd:string .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#idDrink
+:idDrink rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Cocktail ;
+         rdfs:range xsd:string .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#preparationEN
+:preparationEN rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Cocktail ;
+               rdfs:range xsd:string .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#quantity
+:quantity rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Quantity ;
+          rdfs:range xsd:string .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#quantityName
+:quantityName rdf:type owl:DatatypeProperty ;
+              rdfs:domain :Quantity ;
+              rdfs:range xsd:string .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#strBar
+:strBar rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Bar ;
+        rdfs:range xsd:string .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#strBartender
+:strBartender rdf:type owl:DatatypeProperty ;
+              rdfs:domain :Bartender ;
+              rdfs:range xsd:string .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#strIngredient
+:strIngredient rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Ingredient ;
+               rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Bar
+:Bar rdf:type owl:Class .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Bartender
+:Bartender rdf:type owl:Class .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Cocktail
+:Cocktail rdf:type owl:Class .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Ingredient
+:Ingredient rdf:type owl:Class .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Quantity
+:Quantity rdf:type owl:Class .
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Bar1
+:Bar1 rdf:type owl:NamedIndividual ,
+               :Bar ;
+      :isAssociatedToCocktail :Cocktail1 ;
+      :strBar "Absinthe Brasserie & Bar" .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Bartender1
+:Bartender1 rdf:type owl:NamedIndividual ,
+                     :Bartender ;
+            :createCocktail :Cocktail1 ;
+            :strBartender "Adam Delaney" .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Cocktail1
+:Cocktail1 rdf:type owl:NamedIndividual ,
+                    :Cocktail ;
+           :createdByBartender :Bartender1 ;
+           :garnishWithIngredient :Ingredient1 ;
+           :hasQuantity :Quantity1 ;
+           :drinkName "Abano Sour" ;
+           :idDrink "caca" ;
+           :preparationEN """Shake ingredients with ice then strain into a
+sour cocktail glass previously rimmed with cardamom sugar.""" .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Ingredient1
+:Ingredient1 rdf:type owl:NamedIndividual ,
+                      :Ingredient ;
+             :asGarnishCocktail :Cocktail1 ;
+             :strIngredient "Abbott's Aromatic Bitters" .
+
+
+###  http://www.di.uminho.pt/rpcw2025/PG55921#Quantity1
+:Quantity1 rdf:type owl:NamedIndividual ,
+                    :Quantity ;
+           :isUsedCocktail :Cocktail1 ;
+           :useIngredient :Ingredient1 ;
+           :quantity "1/2" ;
+           :quantityName "juiceof12lemon" .
+           

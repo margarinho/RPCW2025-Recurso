@@ -1,0 +1,1008 @@
+[
+    {
+        "id": "absinthebrasseriebar",
+        "isAssociatedToCocktail": "venetian",
+        "strBar": "Absinthe Brasserie & Bar"
+    },
+    {
+        "id": "abv",
+        "isAssociatedToCocktail": [
+            "bustercrusta",
+            "ginncelery",
+            "wherestheorgeat"
+        ],
+        "strBar": "ABV"
+    },
+    {
+        "id": "acehotel",
+        "isAssociatedToCocktail": "kentuckymaitai",
+        "strBar": "Ace Hotel"
+    },
+    {
+        "id": "acme",
+        "isAssociatedToCocktail": "floralsummer",
+        "strBar": "ACME"
+    },
+    {
+        "id": "ajapanesekirikata",
+        "isAssociatedToCocktail": "naramule",
+        "strBar": "A Japanese Kirikata"
+    },
+    {
+        "id": "alembic",
+        "isAssociatedToCocktail": "abotanicalgarden",
+        "strBar": "Alembic"
+    },
+    {
+        "id": "altaca",
+        "isAssociatedToCocktail": "bunnypoison",
+        "strBar": "Alta CA"
+    },
+    {
+        "id": "americanexpresscenturionlounge",
+        "isAssociatedToCocktail": "pineappleexpress",
+        "strBar": "American Express Centurion Lounge"
+    },
+    {
+        "id": "americanoak",
+        "isAssociatedToCocktail": "wabashavenuesour",
+        "strBar": "American Oak"
+    },
+    {
+        "id": "amkkitchenbar",
+        "isAssociatedToCocktail": "ipamule",
+        "strBar": "AMK Kitchen Bar"
+    },
+    {
+        "id": "amoryamargo",
+        "isAssociatedToCocktail": "heartbreaker",
+        "strBar": "Amor y Amargo"
+    },
+    {
+        "id": "ancestralgardenbarrestaurant",
+        "isAssociatedToCocktail": "mexicomule",
+        "strBar": "Ancestral Garden Bar & Restaurant"
+    },
+    {
+        "id": "aq",
+        "isAssociatedToCocktail": "youbetyourascot",
+        "strBar": "AQ"
+    },
+    {
+        "id": "arthurave",
+        "isAssociatedToCocktail": "palermobreeze",
+        "strBar": "Arthur Ave."
+    },
+    {
+        "id": "artusi",
+        "isAssociatedToCocktail": "luxardosour",
+        "strBar": "Artusi"
+    },
+    {
+        "id": "backbar",
+        "isAssociatedToCocktail": [
+            "basilwaydaquiri",
+            "flighttoperu",
+            "stilllifeofapineapple"
+        ],
+        "strBar": "Backbar"
+    },
+    {
+        "id": "bargoto",
+        "isAssociatedToCocktail": "yuzusazerac",
+        "strBar": "Bar Goto"
+    },
+    {
+        "id": "barsiena",
+        "isAssociatedToCocktail": "no3",
+        "strBar": "Bar Siena"
+    },
+    {
+        "id": "barstella",
+        "isAssociatedToCocktail": "winterseason",
+        "strBar": "Bar Stella"
+    },
+    {
+        "id": "bdkrestaurantbar",
+        "isAssociatedToCocktail": "creole",
+        "strBar": "BDK Restaurant & Bar"
+    },
+    {
+        "id": "benjamincooper",
+        "isAssociatedToCocktail": "thedouglastilden",
+        "strBar": "Benjamin Cooper"
+    },
+    {
+        "id": "beretta",
+        "isAssociatedToCocktail": "irontonic",
+        "strBar": "Beretta"
+    },
+    {
+        "id": "bestintentions",
+        "isAssociatedToCocktail": [
+            "farmersgold",
+            "juliaschild"
+        ],
+        "strBar": "Best Intentions"
+    },
+    {
+        "id": "biltongbar",
+        "isAssociatedToCocktail": [
+            "pantsoffdanceoff",
+            "sidecar"
+        ],
+        "strBar": "Biltong Bar"
+    },
+    {
+        "id": "blackbird",
+        "isAssociatedToCocktail": [
+            "applesgrapes",
+            "biancoamericano",
+            "kingsmedicine",
+            "sanfranciscostrongskrong",
+            "thekingsmedicine"
+        ],
+        "strBar": "Blackbird"
+    },
+    {
+        "id": "bonmarch",
+        "isAssociatedToCocktail": "dayfornight",
+        "strBar": "Bon Marché"
+    },
+    {
+        "id": "bonneville",
+        "isAssociatedToCocktail": [
+            "naughtynikka",
+            "redbudtrail",
+            "strikeno3"
+        ],
+        "strBar": "Bonneville"
+    },
+    {
+        "id": "bonvivants",
+        "isAssociatedToCocktail": [
+            "buzzardsbay",
+            "coosbay",
+            "knockemdownkey",
+            "redondobeach"
+        ],
+        "strBar": "Bon Vivants"
+    },
+    {
+        "id": "bryantscocktaillounge",
+        "isAssociatedToCocktail": "thecanevaricocktail",
+        "strBar": "Bryant's Cocktail Lounge"
+    },
+    {
+        "id": "burrittroom",
+        "isAssociatedToCocktail": "merrysherrycobbler",
+        "strBar": "Burritt Room"
+    },
+    {
+        "id": "burritttavern",
+        "isAssociatedToCocktail": "cherrybarkmartinez",
+        "strBar": "Burritt Tavern"
+    },
+    {
+        "id": "caffedante",
+        "isAssociatedToCocktail": "negronisorbetto",
+        "strBar": "Caffe Dante"
+    },
+    {
+        "id": "cala",
+        "isAssociatedToCocktail": "oaxacanmartini",
+        "strBar": "Cala"
+    },
+    {
+        "id": "caporestaurant",
+        "isAssociatedToCocktail": "yourebitterthanthat",
+        "strBar": "Capo Restaurant"
+    },
+    {
+        "id": "cherryblossompub",
+        "isAssociatedToCocktail": [
+            "eatdrinkandbecherry",
+            "nekocolada",
+            "preparefordestinywheresmypizza"
+        ],
+        "strBar": "Cherry Blossom PUB"
+    },
+    {
+        "id": "cocteleria",
+        "isAssociatedToCocktail": [
+            "mangono3",
+            "wooster53"
+        ],
+        "strBar": "Cocteleria"
+    },
+    {
+        "id": "coldglasscom",
+        "isAssociatedToCocktail": [
+            "derniermot",
+            "finalward",
+            "theasterisk",
+            "thesilvercocktail"
+        ],
+        "strBar": "Cold-Glass.com"
+    },
+    {
+        "id": "comstocksaloon",
+        "isAssociatedToCocktail": [
+            "hippihill",
+            "piscopunchadaptationbythecomstocksaloon"
+        ],
+        "strBar": "Comstock Saloon"
+    },
+    {
+        "id": "deathco",
+        "isAssociatedToCocktail": [
+            "boomingranny",
+            "conference",
+            "flamenco",
+            "matchgripjulep",
+            "muddledmission",
+            "sadestaboo",
+            "sidewinder",
+            "solerasidecar"
+        ],
+        "strBar": "Death & Co."
+    },
+    {
+        "id": "departure",
+        "isAssociatedToCocktail": "longdivision",
+        "strBar": "Departure"
+    },
+    {
+        "id": "dirtyhabit",
+        "isAssociatedToCocktail": [
+            "abloodyshame",
+            "abovemypaygrade",
+            "atalltell",
+            "b_string",
+            "canaryvsthecoalmine",
+            "creamofthecrop",
+            "creekrandry",
+            "dirtnap",
+            "farfromthetree",
+            "fullofbologna",
+            "inhinesight",
+            "ironfistinavelvetglove",
+            "justbeetit",
+            "kentuckygarrigue",
+            "mandrake",
+            "mayahuelsrevenge",
+            "meanmartinez",
+            "polishpenance",
+            "rudolphsrose",
+            "shortround",
+            "shortroundii",
+            "sloesteady",
+            "snowbunny",
+            "the42ndround",
+            "thenuttysensation",
+            "underthesun",
+            "xmasinjuniper",
+            "yougoglencoco"
+        ],
+        "strBar": "Dirty Habit"
+    },
+    {
+        "id": "dragocentro",
+        "isAssociatedToCocktail": "lalaland",
+        "strBar": "Drago Centro"
+    },
+    {
+        "id": "driftfishhouseoysterbar",
+        "isAssociatedToCocktail": "cutrum",
+        "strBar": "Drift Fish House & Oyster Bar"
+    },
+    {
+        "id": "drink",
+        "isAssociatedToCocktail": "spaceagepop",
+        "strBar": "Drink"
+    },
+    {
+        "id": "easternstandard",
+        "isAssociatedToCocktail": [
+            "dontrocktheboatpunch",
+            "luxshandy"
+        ],
+        "strBar": "Eastern Standard"
+    },
+    {
+        "id": "elevenmadisonpark",
+        "isAssociatedToCocktail": "mottandmulberry",
+        "strBar": "Eleven Madison Park"
+    },
+    {
+        "id": "elixir",
+        "isAssociatedToCocktail": "thehollingermanhattan",
+        "strBar": "Elixir"
+    },
+    {
+        "id": "expatriate",
+        "isAssociatedToCocktail": "piedradesol",
+        "strBar": "Expatriate"
+    },
+    {
+        "id": "farina",
+        "isAssociatedToCocktail": "10to7",
+        "strBar": "Farina"
+    },
+    {
+        "id": "fifthfloor",
+        "isAssociatedToCocktail": "newtonstheory",
+        "strBar": "Fifth Floor"
+    },
+    {
+        "id": "fivestar",
+        "isAssociatedToCocktail": "fivestarcocktail",
+        "strBar": "Five Star"
+    },
+    {
+        "id": "flatironlounge",
+        "isAssociatedToCocktail": "daisymae",
+        "strBar": "Flatiron Lounge"
+    },
+    {
+        "id": "fogharborfishhouse",
+        "isAssociatedToCocktail": "barrelagedgingernegroni",
+        "strBar": "Fog Harbor Fish House"
+    },
+    {
+        "id": "forgeryverso",
+        "isAssociatedToCocktail": "thehappyplace",
+        "strBar": "Forgery & Verso"
+    },
+    {
+        "id": "gastronomistacom",
+        "isAssociatedToCocktail": [
+            "cherryblossommartini",
+            "cherrychampagnecocktail",
+            "cherryshandy",
+            "grown_upshirleytemple",
+            "luxardoicecreamfloat"
+        ],
+        "strBar": "Gastronomista.com"
+    },
+    {
+        "id": "greenriver",
+        "isAssociatedToCocktail": "cullertonstreet",
+        "strBar": "GreenRiver"
+    },
+    {
+        "id": "grimaldispizzeria",
+        "isAssociatedToCocktail": [
+            "italianmargarita",
+            "longislandlimoncellomartini"
+        ],
+        "strBar": "Grimaldi's Pizzeria"
+    },
+    {
+        "id": "harperrye",
+        "isAssociatedToCocktail": "nickjanae",
+        "strBar": "Harper & Rye"
+    },
+    {
+        "id": "henri",
+        "isAssociatedToCocktail": "goattownswizzle",
+        "strBar": "Henri"
+    },
+    {
+        "id": "henriettared",
+        "isAssociatedToCocktail": "redhook",
+        "strBar": "Henrietta Red"
+    },
+    {
+        "id": "hideoutatdalva",
+        "isAssociatedToCocktail": "scotchjoplin",
+        "strBar": "Hideout at Dalva"
+    },
+    {
+        "id": "highlands",
+        "isAssociatedToCocktail": "teasympathy",
+        "strBar": "Highlands"
+    },
+    {
+        "id": "hogislandoysterco",
+        "isAssociatedToCocktail": "thecommissionerstrophy3",
+        "strBar": "Hog Island Oyster Co."
+    },
+    {
+        "id": "honeycut",
+        "isAssociatedToCocktail": "mistergingy",
+        "strBar": "Honeycut"
+    },
+    {
+        "id": "horsefeather",
+        "isAssociatedToCocktail": "thechief",
+        "strBar": "Horsefeather"
+    },
+    {
+        "id": "hotelmonteleone",
+        "isAssociatedToCocktail": [
+            "chilcanovariation",
+            "thekingsmule"
+        ],
+        "strBar": "Hotel Monteleone"
+    },
+    {
+        "id": "houseofbluesanaheim",
+        "isAssociatedToCocktail": "sanfransoda",
+        "strBar": "House of Blues Anaheim"
+    },
+    {
+        "id": "idaclaire",
+        "isAssociatedToCocktail": "peachykeane",
+        "strBar": "Ida Claire"
+    },
+    {
+        "id": "imperial",
+        "isAssociatedToCocktail": "theprofessor",
+        "strBar": "Imperial"
+    },
+    {
+        "id": "japonais",
+        "isAssociatedToCocktail": "japonaisno3",
+        "strBar": "Japonais"
+    },
+    {
+        "id": "jazzkitchen",
+        "isAssociatedToCocktail": [
+            "bananasfroster",
+            "creolecobbler",
+            "geauxgeauxcup",
+            "nola75",
+            "pontchartrainpunch"
+        ],
+        "strBar": "Jazz Kitchen"
+    },
+    {
+        "id": "julietristorante",
+        "isAssociatedToCocktail": "hearditthroughthegrapevine",
+        "strBar": "Juliet Ristorante"
+    },
+    {
+        "id": "jupiterolympus",
+        "isAssociatedToCocktail": [
+            "onthefritz",
+            "phineasflip",
+            "princeofhumbugs",
+            "swedishnightingale",
+            "thegreatestpunchonearth",
+            "thekingsfrothfrizz"
+        ],
+        "strBar": "Jupiter Olympus"
+    },
+    {
+        "id": "lamarcebicheriaperuana",
+        "isAssociatedToCocktail": "peterpumpkin",
+        "strBar": "La Mar Cebicheria Peruana"
+    },
+    {
+        "id": "landandwaterco",
+        "isAssociatedToCocktail": [
+            "andywarhol",
+            "divineaspect",
+            "italianrivieramojito"
+        ],
+        "strBar": "Land and Water Co."
+    },
+    {
+        "id": "larkonthepark",
+        "isAssociatedToCocktail": "nectaroftheamazon",
+        "strBar": "LARK on the Park"
+    },
+    {
+        "id": "localedition",
+        "isAssociatedToCocktail": "mothersuperior",
+        "strBar": "Local Edition"
+    },
+    {
+        "id": "lolinda",
+        "isAssociatedToCocktail": "thebossanova",
+        "strBar": "Lolinda"
+    },
+    {
+        "id": "matador",
+        "isAssociatedToCocktail": "pricklypearmargarita",
+        "strBar": "Matador"
+    },
+    {
+        "id": "maven",
+        "isAssociatedToCocktail": [
+            "internationalmistress",
+            "tahitianfix"
+        ],
+        "strBar": "Maven"
+    },
+    {
+        "id": "michaelminarestaurantgroup",
+        "isAssociatedToCocktail": [
+            "imonlyhappywhenitrains",
+            "luxjapaneselemonade",
+            "sagesound"
+        ],
+        "strBar": "Michael Mina Restaurant Group"
+    },
+    {
+        "id": "miles",
+        "isAssociatedToCocktail": "kingsmule",
+        "strBar": "Miles"
+    },
+    {
+        "id": "misterjius",
+        "isAssociatedToCocktail": "happiness",
+        "strBar": "Mister Jiu's"
+    },
+    {
+        "id": "mizuizakaya",
+        "isAssociatedToCocktail": "lastsamurai",
+        "strBar": "Mizu Izakaya"
+    },
+    {
+        "id": "momofuku",
+        "isAssociatedToCocktail": [
+            "nigamono",
+            "northernhemispherenikka12edition"
+        ],
+        "strBar": "Momofuku"
+    },
+    {
+        "id": "morabarkitchen",
+        "isAssociatedToCocktail": "fieryclydesdale",
+        "strBar": "Mora Bar & Kitchen"
+    },
+    {
+        "id": "mourad",
+        "isAssociatedToCocktail": [
+            "coffeeclove",
+            "noriislay",
+            "pumpkinpecan"
+        ],
+        "strBar": "Mourad"
+    },
+    {
+        "id": "neat",
+        "isAssociatedToCocktail": [
+            "brisadelsur",
+            "chingerito"
+        ],
+        "strBar": "NEAT"
+    },
+    {
+        "id": "nitecap",
+        "isAssociatedToCocktail": "platonicsnuggle",
+        "strBar": "Nitecap"
+    },
+    {
+        "id": "novela",
+        "isAssociatedToCocktail": "theboysofsummercup",
+        "strBar": "Novela"
+    },
+    {
+        "id": "novorestaurantlounge",
+        "isAssociatedToCocktail": "potrerohill",
+        "strBar": "Novo Restaurant Lounge"
+    },
+    {
+        "id": "oliveoak",
+        "isAssociatedToCocktail": "106cocktail",
+        "strBar": "Olive & Oak"
+    },
+    {
+        "id": "onesixtyblue",
+        "isAssociatedToCocktail": "aregalair",
+        "strBar": "One Sixty Blue"
+    },
+    {
+        "id": "osha",
+        "isAssociatedToCocktail": "anise",
+        "strBar": "Osha"
+    },
+    {
+        "id": "pabu",
+        "isAssociatedToCocktail": [
+            "bakkozengo",
+            "classiclolita"
+        ],
+        "strBar": "Pabu"
+    },
+    {
+        "id": "pacificcocktailhaven",
+        "isAssociatedToCocktail": "ohsnap",
+        "strBar": "Pacific Cocktail Haven"
+    },
+    {
+        "id": "padrecito",
+        "isAssociatedToCocktail": "nuestrajulep",
+        "strBar": "Padrecito"
+    },
+    {
+        "id": "palizzisocialclub",
+        "isAssociatedToCocktail": "themolino",
+        "strBar": "Palizzi Social Club"
+    },
+    {
+        "id": "parktavern",
+        "isAssociatedToCocktail": "secondcitysour",
+        "strBar": "Park Tavern"
+    },
+    {
+        "id": "partender",
+        "isAssociatedToCocktail": "asouthernjackass",
+        "strBar": "Partender"
+    },
+    {
+        "id": "pdt",
+        "isAssociatedToCocktail": [
+            "frenchmaid",
+            "thedoublecrown"
+        ],
+        "strBar": "PDT"
+    },
+    {
+        "id": "pouringribbons",
+        "isAssociatedToCocktail": "lefemmenikita",
+        "strBar": "Pouring Ribbons"
+    },
+    {
+        "id": "presidiosocialclub",
+        "isAssociatedToCocktail": "ypiocayellowcard",
+        "strBar": "Presidio Social Club"
+    },
+    {
+        "id": "putnamspubcooker",
+        "isAssociatedToCocktail": "macksapple",
+        "strBar": "Putnam's Pub & Cooker"
+    },
+    {
+        "id": "rationdram",
+        "isAssociatedToCocktail": "georgiaoldfashioned",
+        "strBar": "Ration & Dram"
+    },
+    {
+        "id": "republicstreetbar",
+        "isAssociatedToCocktail": "amarettojelloshotwhynot",
+        "strBar": "Republic Street Bar"
+    },
+    {
+        "id": "rickhouse",
+        "isAssociatedToCocktail": [
+            "fortuneglory",
+            "theloversquarrel"
+        ],
+        "strBar": "Rickhouse"
+    },
+    {
+        "id": "robroythehideout",
+        "isAssociatedToCocktail": [
+            "thedrycruise",
+            "yesqueen"
+        ],
+        "strBar": "Rob Roy, The Hideout"
+    },
+    {
+        "id": "rye",
+        "isAssociatedToCocktail": "thestandby",
+        "strBar": "Rye"
+    },
+    {
+        "id": "savorgastropub",
+        "isAssociatedToCocktail": "thefrenchconnection",
+        "strBar": "Savor Gastropub"
+    },
+    {
+        "id": "saxonparole",
+        "isAssociatedToCocktail": "hibiscuspiscosour",
+        "strBar": "Saxon & Parole"
+    },
+    {
+        "id": "shadyladysaloon",
+        "isAssociatedToCocktail": "willow",
+        "strBar": "Shady Lady Saloon"
+    },
+    {
+        "id": "sienatavern",
+        "isAssociatedToCocktail": "no10",
+        "strBar": "Siena Tavern"
+    },
+    {
+        "id": "skyfalllounge",
+        "isAssociatedToCocktail": "thymeforbed",
+        "strBar": "Skyfall Lounge"
+    },
+    {
+        "id": "smallvictory",
+        "isAssociatedToCocktail": [
+            "birdon",
+            "jammiedodgerfizz"
+        ],
+        "strBar": "Small Victory"
+    },
+    {
+        "id": "snakeoilcompany",
+        "isAssociatedToCocktail": "thepalacecellar",
+        "strBar": "Snake Oil Company"
+    },
+    {
+        "id": "southsidespirithouse",
+        "isAssociatedToCocktail": "goldrush",
+        "strBar": "Southside Spirit House"
+    },
+    {
+        "id": "spitfirebar",
+        "isAssociatedToCocktail": "thenaughtynice",
+        "strBar": "Spitfire Bar"
+    },
+    {
+        "id": "sprigspirit",
+        "isAssociatedToCocktail": "springcleanse",
+        "strBar": "Sprig & Spirit"
+    },
+    {
+        "id": "stookeysclubmoderne",
+        "isAssociatedToCocktail": "buenaventura",
+        "strBar": "Stookey's Club Moderne"
+    },
+    {
+        "id": "surfcomber",
+        "isAssociatedToCocktail": "endlesssummer",
+        "strBar": "Surfcomber"
+    },
+    {
+        "id": "thebendliquorlounge",
+        "isAssociatedToCocktail": "slowride",
+        "strBar": "The Bend Liquor Lounge"
+    },
+    {
+        "id": "thebonvivants",
+        "isAssociatedToCocktail": "amarettosourbv_style",
+        "strBar": "The Bon Vivants"
+    },
+    {
+        "id": "thebywater",
+        "isAssociatedToCocktail": "westbank",
+        "strBar": "The Bywater"
+    },
+    {
+        "id": "thecavalier",
+        "isAssociatedToCocktail": "thecavalierwhitelady",
+        "strBar": "The Cavalier"
+    },
+    {
+        "id": "thecedarssocial",
+        "isAssociatedToCocktail": "fizzyrhubarbmule",
+        "strBar": "The Cedars Social"
+    },
+    {
+        "id": "thecommissary",
+        "isAssociatedToCocktail": [
+            "bajocontrol",
+            "hotalingoldtomgin",
+            "piscopunchadaptationbythecommissary"
+        ],
+        "strBar": "The Commissary"
+    },
+    {
+        "id": "thedawson",
+        "isAssociatedToCocktail": "parisianmanhattan",
+        "strBar": "The Dawson"
+    },
+    {
+        "id": "thedevilsacre",
+        "isAssociatedToCocktail": [
+            "bourboncrusta",
+            "cock_tail"
+        ],
+        "strBar": "The Devil's Acre"
+    },
+    {
+        "id": "theedison",
+        "isAssociatedToCocktail": "mayanmule",
+        "strBar": "The Edison"
+    },
+    {
+        "id": "theforgery",
+        "isAssociatedToCocktail": [
+            "croatiafiringsquad",
+            "delicioussour",
+            "fourthgeneration",
+            "lonesomegeorge",
+            "monet"
+        ],
+        "strBar": "The Forgery"
+    },
+    {
+        "id": "theginjoint",
+        "isAssociatedToCocktail": "thefall75",
+        "strBar": "The Gin Joint"
+    },
+    {
+        "id": "theginroom",
+        "isAssociatedToCocktail": "spanishgt",
+        "strBar": "The Gin Room"
+    },
+    {
+        "id": "thegladly",
+        "isAssociatedToCocktail": "baycityshandy",
+        "strBar": "The Gladly"
+    },
+    {
+        "id": "thehawthorne",
+        "isAssociatedToCocktail": "thegreatpumpkincocktail",
+        "strBar": "The Hawthorne"
+    },
+    {
+        "id": "thelongislandbar",
+        "isAssociatedToCocktail": "espcedesazerac",
+        "strBar": "The Long Island Bar"
+    },
+    {
+        "id": "themust",
+        "isAssociatedToCocktail": "elmustavo",
+        "strBar": "The Must"
+    },
+    {
+        "id": "theoldebar",
+        "isAssociatedToCocktail": "onthewingsofeagles",
+        "strBar": "The Olde Bar"
+    },
+    {
+        "id": "thesailingbar",
+        "isAssociatedToCocktail": "cove",
+        "strBar": "The Sailing Bar"
+    },
+    {
+        "id": "thesipologist",
+        "isAssociatedToCocktail": "bachelorsbait",
+        "strBar": "The Sipologist"
+    },
+    {
+        "id": "thesoignegroup",
+        "isAssociatedToCocktail": [
+            "doitashimashie",
+            "luckyno3",
+            "motelnacional"
+        ],
+        "strBar": "The Soigne Group"
+    },
+    {
+        "id": "thespareroom",
+        "isAssociatedToCocktail": "loxstocktwosmokingbarrels",
+        "strBar": "The Spare Room"
+    },
+    {
+        "id": "thetreasury",
+        "isAssociatedToCocktail": [
+            "doubletrouble",
+            "juniperojolly"
+        ],
+        "strBar": "The Treasury"
+    },
+    {
+        "id": "theusual",
+        "isAssociatedToCocktail": "birdtobuck",
+        "strBar": "The Usual"
+    },
+    {
+        "id": "theviolethour",
+        "isAssociatedToCocktail": "templeofthemoon",
+        "strBar": "The Violet Hour"
+    },
+    {
+        "id": "tinroofdrinkcommunity",
+        "isAssociatedToCocktail": "littlegroundtapper",
+        "strBar": "Tin Roof Drink Community"
+    },
+    {
+        "id": "tipplinghall",
+        "isAssociatedToCocktail": "labatidaloca",
+        "strBar": "Tippling Hall"
+    },
+    {
+        "id": "tonyspizzanapoletana",
+        "isAssociatedToCocktail": "downtherabbithole",
+        "strBar": "Tony's Pizza Napoletana"
+    },
+    {
+        "id": "tookeralley",
+        "isAssociatedToCocktail": "cherryorchard",
+        "strBar": "Tooker Alley"
+    },
+    {
+        "id": "tradition",
+        "isAssociatedToCocktail": "saharaglowingheart",
+        "strBar": "Tradition"
+    },
+    {
+        "id": "treo",
+        "isAssociatedToCocktail": [
+            "bailedeverano",
+            "bokobuku",
+            "captofthesevenseas",
+            "strollthroughthepark",
+            "tequilasunflare"
+        ],
+        "strBar": "Treo"
+    },
+    {
+        "id": "trickdog",
+        "isAssociatedToCocktail": [
+            "chapmancobbler",
+            "springforward",
+            "thelasttango",
+            "virgilst"
+        ],
+        "strBar": "Trick Dog"
+    },
+    {
+        "id": "trounormand",
+        "isAssociatedToCocktail": "improvedcalvadoscocktail",
+        "strBar": "Trou Normand"
+    },
+    {
+        "id": "turnkey",
+        "isAssociatedToCocktail": "charenteroyale",
+        "strBar": "Turnkey"
+    },
+    {
+        "id": "unionlodgeno1",
+        "isAssociatedToCocktail": [
+            "hollandhouse",
+            "unionjack"
+        ],
+        "strBar": "Union Lodge No.1"
+    },
+    {
+        "id": "unlimitedliabilities",
+        "isAssociatedToCocktail": "jackcherrysour2001remix",
+        "strBar": "Unlimited Liabilities"
+    },
+    {
+        "id": "urchinbistrot",
+        "isAssociatedToCocktail": "champslyses",
+        "strBar": "Urchin Bistrot"
+    },
+    {
+        "id": "walterfoods",
+        "isAssociatedToCocktail": "rxhottoddy",
+        "strBar": "Walter Foods"
+    },
+    {
+        "id": "whitechapel",
+        "isAssociatedToCocktail": "sanfranciscoharvest",
+        "strBar": "Whitechapel"
+    },
+    {
+        "id": "whiteoaktavern",
+        "isAssociatedToCocktail": "lamaracuja",
+        "strBar": "White Oak Tavern"
+    },
+    {
+        "id": "wildhawk",
+        "isAssociatedToCocktail": [
+            "ginmademedoit",
+            "kindoffancy"
+        ],
+        "strBar": "Wildhawk"
+    },
+    {
+        "id": "wingtip",
+        "isAssociatedToCocktail": "anoaxacanchristmas",
+        "strBar": "Wingtip"
+    },
+    {
+        "id": "wishbar",
+        "isAssociatedToCocktail": "impearedfashioned",
+        "strBar": "Wish Bar"
+    },
+    {
+        "id": "ziryab",
+        "isAssociatedToCocktail": [
+            "cocaomartini",
+            "theswedish"
+        ],
+        "strBar": "Ziryab"
+    }
+]
